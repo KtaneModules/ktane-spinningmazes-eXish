@@ -757,7 +757,7 @@ public class SpinningMazesScript : ModuleScript
 		{
 			12,
 			6,
-			6,
+			3,
 			3,
 			11,
 			5,
